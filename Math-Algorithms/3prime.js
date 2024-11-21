@@ -14,7 +14,7 @@ function isPrime(n){
         if(n % i === 0){
             return false;
         };
-    };
+    }; 
     return true;
 };
 
